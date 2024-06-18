@@ -30,7 +30,7 @@ void bellmanFord(GraphList& graph, int source) {
     }
  //   std::cout << l << "\n";
 
-    for(int i=0;i<edges.size();i++)printf("%d %d %d\n", edges[i].src, edges[i].dest, edges[i].weight);
+  //  for(int i=0;i<edges.size();i++)printf("%d %d %d\n", edges[i].src, edges[i].dest, edges[i].weight);
 
     // Inicjalizacja odległości i poprzedników
     std::vector<int> dist(V, std::numeric_limits<int>::max());
@@ -109,7 +109,7 @@ void bellmanFord(GraphIncidence& graph, int source) {
             }
         }
     }
-    for(int i=0;i<edges.size();i++)printf("%d %d %d\n", edges[i].src, edges[i].dest, edges[i].weight);
+ //   for(int i=0;i<edges.size();i++)printf("%d %d %d\n", edges[i].src, edges[i].dest, edges[i].weight);
 //    std::cout << l << "\n";
     // Inicjalizacja odległości i poprzedników
     std::vector<int> dist(V, std::numeric_limits<int>::max());

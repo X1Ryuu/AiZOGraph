@@ -10,3 +10,6 @@
 49	1596	7404455407192020	CMakeFiles/AiZOGraph.dir/Algorithms/Kruskal/Kruskal.cpp.obj	e785f34197afb1af
 34	1658	7404455407829975	CMakeFiles/AiZOGraph.dir/Utils/utils.cpp.obj	b506230a3a6e686f
 1658	2252	7404455413689899	AiZOGraph.exe	bb995e1beed1a93b
+35	730	7404472406575670	CMakeFiles/AiZOGraph.dir/Algorithms/Bellman/Bellman.cpp.obj	99716795c6a2ceae
+7	754	7404472406833946	CMakeFiles/AiZOGraph.dir/main.cpp.obj	1577e49b2c984bc5
+6	543	7404472460933008	AiZOGraph.exe	bb995e1beed1a93b
