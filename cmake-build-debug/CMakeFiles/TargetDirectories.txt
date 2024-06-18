@@ -1,0 +1,3 @@
+C:/Users/Bart/CLionProjects/AiZOGraph/cmake-build-debug/CMakeFiles/AiZOGraph.dir
+C:/Users/Bart/CLionProjects/AiZOGraph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bart/CLionProjects/AiZOGraph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
