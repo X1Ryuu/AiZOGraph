@@ -1,0 +1,12 @@
+# ninja log v5
+5	320	7404455390576692	build.ninja	d9a0bf96dd4f591e
+2	320	7404455390576692	build.ninja	d9a0bf96dd4f591e
+29	559	7404455396808846	CMakeFiles/AiZOGraph.dir/Matrix/GraphIncidence.cpp.obj	83a4c13ff4f5af1
+39	608	7404455397313554	CMakeFiles/AiZOGraph.dir/List/GraphList.cpp.obj	351b725cfbccaf30
+62	1079	7404455402021824	CMakeFiles/AiZOGraph.dir/Algorithms/Bellman/Bellman.cpp.obj	99716795c6a2ceae
+44	1191	7404455403116668	CMakeFiles/AiZOGraph.dir/Algorithms/Prim/Prim.cpp.obj	978a72435d983234
+25	1193	7404455403126668	CMakeFiles/AiZOGraph.dir/main.cpp.obj	1577e49b2c984bc5
+56	1241	7404455403659375	CMakeFiles/AiZOGraph.dir/Algorithms/Dijkstra/Dijkstra.cpp.obj	2298b5f0971154a5
+49	1596	7404455407192020	CMakeFiles/AiZOGraph.dir/Algorithms/Kruskal/Kruskal.cpp.obj	e785f34197afb1af
+34	1658	7404455407829975	CMakeFiles/AiZOGraph.dir/Utils/utils.cpp.obj	b506230a3a6e686f
+1658	2252	7404455413689899	AiZOGraph.exe	bb995e1beed1a93b
